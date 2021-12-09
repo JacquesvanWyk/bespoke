@@ -1,0 +1,4 @@
+name: bespoke
+recipe: wordpress
+config:
+  webroot: web
