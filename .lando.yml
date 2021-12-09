@@ -2,3 +2,4 @@ name: bespoke
 recipe: wordpress
 config:
   webroot: web
+  php: 7.2
